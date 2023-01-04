@@ -2,17 +2,10 @@
     box-sizing: border-box; 
   }
 
-  body header {
-    background-color:  rgb(29, 29, 165);
-    max-height: 75px;
-    padding: 20px;
-    color: lightgrey;
-  } 
-  
-  header h1 {
+  header {
     display: flex;
     justify-content: center;
     text-align: center;
-    padding: 20;
+    background-color: blue;
     color: white;
   }
